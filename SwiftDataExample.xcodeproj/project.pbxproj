@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E0F7D552AC7EB7700A97DCB /* ExpenseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0F7D542AC7EB7700A97DCB /* ExpenseModel.swift */; };
 		2E46F47C2AC7EAB300BDCA0A /* SwiftDataExampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E46F47B2AC7EAB300BDCA0A /* SwiftDataExampleApp.swift */; };
 		2E46F47E2AC7EAB300BDCA0A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E46F47D2AC7EAB300BDCA0A /* ContentView.swift */; };
 		2E46F4802AC7EAB500BDCA0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E46F47F2AC7EAB500BDCA0A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E0F7D542AC7EB7700A97DCB /* ExpenseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseModel.swift; sourceTree = "<group>"; };
 		2E46F4782AC7EAB300BDCA0A /* SwiftDataExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftDataExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E46F47B2AC7EAB300BDCA0A /* SwiftDataExampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDataExampleApp.swift; sourceTree = "<group>"; };
 		2E46F47D2AC7EAB300BDCA0A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				2E46F47B2AC7EAB300BDCA0A /* SwiftDataExampleApp.swift */,
 				2E46F47D2AC7EAB300BDCA0A /* ContentView.swift */,
+				2E0F7D542AC7EB7700A97DCB /* ExpenseModel.swift */,
 				2E46F47F2AC7EAB500BDCA0A /* Assets.xcassets */,
 				2E46F4812AC7EAB500BDCA0A /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E0F7D552AC7EB7700A97DCB /* ExpenseModel.swift in Sources */,
 				2E46F47E2AC7EAB300BDCA0A /* ContentView.swift in Sources */,
 				2E46F47C2AC7EAB300BDCA0A /* SwiftDataExampleApp.swift in Sources */,
 			);
